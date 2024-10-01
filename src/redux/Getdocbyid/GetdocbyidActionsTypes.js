@@ -1,0 +1,1 @@
+export const SET_GETDOC_DATA = 'SET_GETDOC_DATA';

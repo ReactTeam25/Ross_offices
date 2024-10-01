@@ -1,0 +1,1 @@
+export const SET_TRAVEL_DATA = 'SET_TRAVEL_DATA';

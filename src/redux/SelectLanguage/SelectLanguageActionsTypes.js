@@ -1,0 +1,1 @@
+export const SET_LANGUAGE_DATA = 'SET_LANGUAGE_DATA';
